@@ -1,0 +1,156 @@
+001	Bulbasaur†	152	Chikorita†	252	Treecko†	387	Turtwig†	494	Victini♭	650	Chespin†	722	Rowlet†	810	Grookey†	906	Sprigatito†
+002	Ivysaur	153	Bayleef	253	Grovyle	388	Grotle	495	Snivy†	651	Quilladin	723	Dartrix	811	Thwackey	907	Floragato
+003	Venusaur	154	Meganium	254	Sceptile	389	Torterra	496	Servine	652	Chesnaught	724	Decidueye	812	Rillaboom	908	Meowscarada
+004	Charmander†	155	Cyndaquil†	255	Torchic†	390	Chimchar†	497	Serperior	653	Fennekin†	725	Litten†	813	Scorbunny†	909	Fuecoco†
+005	Charmeleon	156	Quilava	256	Combusken	391	Monferno	498	Tepig†	654	Braixen	726	Torracat	814	Raboot	910	Crocalor
+006	Charizard	157	Typhlosion	257	Blaziken	392	Infernape	499	Pignite	655	Delphox	727	Incineroar	815	Cinderace	911	Skeledirge
+007	Squirtle†	158	Totodile†	258	Mudkip†	393	Piplup†	500	Emboar	656	Froakie†	728	Popplio†	816	Sobble†	912	Quaxly†
+008	Wartortle	159	Croconaw	259	Marshtomp	394	Prinplup	501	Oshawott†	657	Frogadier	729	Brionne	817	Drizzile	913	Quaxwell
+009	Blastoise	160	Feraligatr	260	Swampert	395	Empoleon	502	Dewott	658	Greninja	730	Primarina	818	Inteleon	914	Quaquaval
+010	Caterpie	161	Sentret	261	Poochyena	396	Starly	503	Samurott	659	Bunnelby	731	Pikipek	819	Skwovet	915	Lechonk
+011	Metapod	162	Furret	262	Mightyena	397	Staravia	504	Patrat	660	Diggersby	732	Trumbeak	820	Greedent	916	Oinkologne
+012	Butterfree	163	Hoothoot	263	Zigzagoon	398	Staraptor	505	Watchog	661	Fletchling	733	Toucannon	821	Rookidee	917	Tarountula
+013	Weedle	164	Noctowl	264	Linoone	399	Bidoof	506	Lillipup	662	Fletchinder	734	Yungoos	822	Corvisquire	918	Spidops
+014	Kakuna	165	Ledyba	265	Wurmple	400	Bibarel	507	Herdier	663	Talonflame	735	Gumshoos	823	Corviknight	919	Nymble
+015	Beedrill	166	Ledian	266	Silcoon	401	Kricketot	508	Stoutland	664	Scatterbug	736	Grubbin	824	Blipbug	920	Lokix
+016	Pidgey	167	Spinarak	267	Beautifly	402	Kricketune	509	Purrloin	665	Spewpa	737	Charjabug	825	Dottler	921	Pawmi
+017	Pidgeotto	168	Ariados	268	Cascoon	403	Shinx	510	Liepard	666	Vivillon	738	Vikavolt	826	Orbeetle	922	Pawmo
+018	Pidgeot	169	Crobat	269	Dustox	404	Luxio	511	Pansage	667	Litleo	739	Crabrawler	827	Nickit	923	Pawmot
+019	Rattata	170	Chinchou	270	Lotad	405	Luxray	512	Simisage	668	Pyroar	740	Crabominable	828	Thievul	924	Tandemaus
+020	Raticate	171	Lanturn	271	Lombre	406	Budew※	513	Pansear	669	Flabébé	741	Oricorio	829	Gossifleur	925	Maushold
+021	Spearow	172	Pichu※	272	Ludicolo	407	Roserade	514	Simisear	670	Floette	742	Cutiefly	830	Eldegoss	926	Fidough
+022	Fearow	173	Cleffa※	273	Seedot	408	Cranidos~[d]	515	Panpour	671	Florges	743	Ribombee	831	Wooloo	927	Dachsbun
+023	Ekans	174	Igglybuff※	274	Nuzleaf	409	Rampardos~[d]	516	Simipour	672	Skiddo	744	Rockruff	832	Dubwool	928	Smoliv
+024	Arbok	175	Togepi※	275	Shiftry	410	Shieldon~[d]	517	Munna	673	Gogoat	745	Lycanroc	833	Chewtle	929	Dolliv
+025	Pikachu	176	Togetic	276	Taillow	411	Bastiodon~[d]	518	Musharna	674	Pancham	746	Wishiwashi	834	Drednaw	930	Arboliva
+026	Raichu	177	Natu	277	Swellow	412	Burmy	519	Pidove	675	Pangoro	747	Mareanie	835	Yamper	931	Squawkabilly
+027	Sandshrew	178	Xatu	278	Wingull	413	Wormadam	520	Tranquill	676	Furfrou	748	Toxapex	836	Boltund	932	Nacli
+028	Sandslash	179	Mareep	279	Pelipper	414	Mothim	521	Unfezant	677	Espurr	749	Mudbray	837	Rolycoly	933	Naclstack
+029	Nidoran♀	180	Flaaffy	280	Ralts	415	Combee	522	Blitzle	678	Meowstic	750	Mudsdale	838	Carkol	934	Garganacl
+030	Nidorina	181	Ampharos	281	Kirlia	416	Vespiquen	523	Zebstrika	679	Honedge	751	Dewpider	839	Coalossal	935	Charcadet
+031	Nidoqueen	182	Bellossom	282	Gardevoir	417	Pachirisu	524	Roggenrola	680	Doublade	752	Araquanid	840	Applin	936	Armarouge
+032	Nidoran♂	183	Marill	283	Surskit	418	Buizel	525	Boldore	681	Aegislash	753	Fomantis	841	Flapple	937	Ceruledge
+033	Nidorino	184	Azumarill	284	Masquerain	419	Floatzel	526	Gigalith	682	Spritzee	754	Lurantis	842	Appletun	938	Tadbulb
+034	Nidoking	185	Sudowoodo	285	Shroomish	420	Cherubi	527	Woobat	683	Aromatisse	755	Morelull	843	Silicobra	939	Bellibolt
+035	Clefairy	186	Politoed	286	Breloom	421	Cherrim	528	Swoobat	684	Swirlix	756	Shiinotic	844	Sandaconda	940	Wattrel
+036	Clefable	187	Hoppip	287	Slakoth	422	Shellos	529	Drilbur	685	Slurpuff	757	Salandit	845	Cramorant	941	Kilowattrel
+037	Vulpix	188	Skiploom	288	Vigoroth	423	Gastrodon	530	Excadrill	686	Inkay	758	Salazzle	846	Arrokuda	942	Maschiff
+038	Ninetales	189	Jumpluff	289	Slaking	424	Ambipom	531	Audino	687	Malamar	759	Stufful	847	Barraskewda	943	Mabosstiff
+039	Jigglypuff	190	Aipom	290	Nincada	425	Drifloon	532	Timburr	688	Binacle	760	Bewear	848	Toxel※	944	Shroodle
+040	Wigglytuff	191	Sunkern	291	Ninjask	426	Drifblim	533	Gurdurr	689	Barbaracle	761	Bounsweet	849	Toxtricity	945	Grafaiai
+041	Zubat	192	Sunflora	292	Shedinja	427	Buneary	534	Conkeldurr	690	Skrelp	762	Steenee	850	Sizzlipede	946	Bramblin
+042	Golbat	193	Yanma	293	Whismur	428	Lopunny	535	Tympole	691	Dragalge	763	Tsareena	851	Centiskorch	947	Brambleghast
+043	Oddish	194	Wooper	294	Loudred	429	Mismagius	536	Palpitoad	692	Clauncher	764	Comfey	852	Clobbopus	948	Toedscool
+044	Gloom	195	Quagsire	295	Exploud	430	Honchkrow	537	Seismitoad	693	Clawitzer	765	Oranguru	853	Grapploct	949	Toedscruel
+045	Vileplume	196	Espeon	296	Makuhita	431	Glameow	538	Throh	694	Helioptile	766	Passimian	854	Sinistea	950	Klawf
+046	Paras	197	Umbreon	297	Hariyama	432	Purugly	539	Sawk	695	Heliolisk	767	Wimpod	855	Polteageist	951	Capsakid
+047	Parasect	198	Murkrow	298	Azurill※	433	Chingling※	540	Sewaddle	696	Tyrunt~	768	Golisopod	856	Hatenna	952	Scovillain
+048	Venonat	199	Slowking	299	Nosepass	434	Stunky	541	Swadloon	697	Tyrantrum~	769	Sandygast	857	Hattrem	953	Rellor
+049	Venomoth	200	Misdreavus	300	Skitty	435	Skuntank	542	Leavanny	698	Amaura~	770	Palossand	858	Hatterene	954	Rabsca
+050	Diglett	201	Unown	301	Delcatty	436	Bronzor	543	Venipede	699	Aurorus~	771	Pyukumuku	859	Impidimp	955	Flittle
+051	Dugtrio	202	Wobbuffet	302	Sableye	437	Bronzong	544	Whirlipede	700	Sylveon	772	Type: Null‡	860	Morgrem	956	Espathra
+052	Meowth	203	Girafarig	303	Mawile	438	Bonsly※	545	Scolipede	701	Hawlucha	773	Silvally‡	861	Grimmsnarl	957	Tinkatink
+053	Persian	204	Pineco	304	Aron	439	Mime Jr.※	546	Cottonee	702	Dedenne	774	Minior	862	Obstagoon	958	Tinkatuff
+054	Psyduck	205	Forretress	305	Lairon	440	Happiny※	547	Whimsicott	703	Carbink	775	Komala	863	Perrserker	959	Tinkaton
+055	Golduck	206	Dunsparce	306	Aggron	441	Chatot	548	Petilil	704	Goomy	776	Turtonator	864	Cursola	960	Wiglett
+056	Mankey	207	Gligar	307	Meditite	442	Spiritomb	549	Lilligant	705	Sliggoo	777	Togedemaru	865	Sirfetch'd	961	Wugtrio
+057	Primeape	208	Steelix	308	Medicham	443	Gible	550	Basculin	706	Goodra	778	Mimikyu	866	Mr. Rime	962	Bombirdier
+058	Growlithe	209	Snubbull	309	Electrike	444	Gabite	551	Sandile	707	Klefki	779	Bruxish	867	Runerigus	963	Finizen
+059	Arcanine	210	Granbull	310	Manectric	445	Garchomp	552	Krokorok	708	Phantump	780	Drampa	868	Milcery	964	Palafin
+060	Poliwag	211	Qwilfish	311	Plusle	446	Munchlax※	553	Krookodile	709	Trevenant	781	Dhelmise	869	Alcremie	965	Varoom
+061	Poliwhirl	212	Scizor	312	Minun	447	Riolu※	554	Darumaka	710	Pumpkaboo	782	Jangmo-o	870	Falinks	966	Revavroom
+062	Poliwrath	213	Shuckle	313	Volbeat	448	Lucario	555	Darmanitan	711	Gourgeist	783	Hakamo-o	871	Pincurchin	967	Cyclizar
+063	Abra	214	Heracross	314	Illumise	449	Hippopotas	556	Maractus	712	Bergmite	784	Kommo-o	872	Snom	968	Orthworm
+064	Kadabra	215	Sneasel	315	Roselia	450	Hippowdon	557	Dwebble	713	Avalugg	785	Tapu Koko‡	873	Frosmoth	969	Glimmet
+065	Alakazam	216	Teddiursa	316	Gulpin	451	Skorupi	558	Crustle	714	Noibat	786	Tapu Lele‡	874	Stonjourner	970	Glimmora
+066	Machop	217	Ursaring	317	Swalot	452	Drapion	559	Scraggy	715	Noivern	787	Tapu Bulu‡	875	Eiscue	971	Greavard
+067	Machoke	218	Slugma	318	Carvanha	453	Croagunk	560	Scrafty	716	Xerneas‡	788	Tapu Fini‡	876	Indeedee	972	Houndstone
+068	Machamp	219	Magcargo	319	Sharpedo	454	Toxicroak	561	Sigilyph	717	Yveltal‡	789	Cosmog‡	877	Morpeko	973	Flamigo
+069	Bellsprout	220	Swinub	320	Wailmer	455	Carnivine	562	Yamask	718	Zygarde‡	790	Cosmoem‡	878	Cufant	974	Cetoddle
+070	Weepinbell	221	Piloswine	321	Wailord	456	Finneon	563	Cofagrigus	719	Diancie♭	791	Solgaleo‡	879	Copperajah	975	Cetitan
+071	Victreebel	222	Corsola	322	Numel	457	Lumineon	564	Tirtouga~	720	Hoopa♭	792	Lunala‡	880	Dracozolt~	976	Veluza
+072	Tentacool	223	Remoraid	323	Camerupt	458	Mantyke※	565	Carracosta~	721	Volcanion♭	793	Nihilego♯	881	Arctozolt~	977	Dondozo
+073	Tentacruel	224	Octillery	324	Torkoal	459	Snover	566	Archen~	No additional Pokémon	794	Buzzwole♯	882	Dracovish~	978	Tatsugiri
+074	Geodude	225	Delibird	325	Spoink	460	Abomasnow	567	Archeops~	795	Pheromosa♯	883	Arctovish~	979	Annihilape
+075	Graveler	226	Mantine	326	Grumpig	461	Weavile	568	Trubbish	796	Xurkitree♯	884	Duraludon	980	Clodsire
+076	Golem	227	Skarmory	327	Spinda	462	Magnezone	569	Garbodor	797	Celesteela♯	885	Dreepy	981	Farigiraf
+077	Ponyta	228	Houndour	328	Trapinch	463	Lickilicky	570	Zorua	798	Kartana♯	886	Drakloak	982	Dudunsparce
+078	Rapidash	229	Houndoom	329	Vibrava	464	Rhyperior	571	Zoroark	799	Guzzlord♯	887	Dragapult	983	Kingambit
+079	Slowpoke	230	Kingdra	330	Flygon	465	Tangrowth	572	Minccino	800	Necrozma‡	888	Zacian‡	984	Great Tusk§
+080	Slowbro	231	Phanpy	331	Cacnea	466	Electivire	573	Cinccino	801	Magearna♭[e]	889	Zamazenta‡	985	Scream Tail§
+081	Magnemite	232	Donphan	332	Cacturne	467	Magmortar	574	Gothita	802	Marshadow♭	890	Eternatus‡	986	Brute Bonnet§
+082	Magneton	233	Porygon2	333	Swablu	468	Togekiss	575	Gothorita	803	Poipole♯	891	Kubfu‡	987	Flutter Mane§
+083	Farfetch'd	234	Stantler	334	Altaria	469	Yanmega	576	Gothitelle	804	Naganadel♯	892	Urshifu‡	988	Slither Wing§
+084	Doduo	235	Smeargle	335	Zangoose	470	Leafeon	577	Solosis	805	Stakataka♯	893	Zarude♭	989	Sandy Shocks§
+085	Dodrio	236	Tyrogue※	336	Seviper	471	Glaceon	578	Duosion	806	Blacephalon♯	894	Regieleki‡	990	Iron Treads§
+086	Seel	237	Hitmontop	337	Lunatone	472	Gliscor	579	Reuniclus	807	Zeraora♭	895	Regidrago‡	991	Iron Bundle§
+087	Dewgong	238	Smoochum※	338	Solrock	473	Mamoswine	580	Ducklett	808	Meltan♭	896	Glastrier‡	992	Iron Hands§
+088	Grimer	239	Elekid※	339	Barboach	474	Porygon-Z	581	Swanna	809	Melmetal♭	897	Spectrier‡	993	Iron Jugulis§
+089	Muk	240	Magby※	340	Whiscash	475	Gallade	582	Vanillite	No additional Pokémon	898	Calyrex‡	994	Iron Moth§
+090	Shellder	241	Miltank	341	Corphish	476	Probopass	583	Vanillish	899	Wyrdeer	995	Iron Thorns§
+091	Cloyster	242	Blissey	342	Crawdaunt	477	Dusknoir	584	Vanilluxe	900	Kleavor	996	Frigibax
+092	Gastly	243	Raikou‡	343	Baltoy	478	Froslass	585	Deerling	901	Ursaluna	997	Arctibax
+093	Haunter	244	Entei‡	344	Claydol	479	Rotom	586	Sawsbuck	902	Basculegion	998	Baxcalibur
+094	Gengar	245	Suicune‡	345	Lileep~	480	Uxie‡	587	Emolga	903	Sneasler	999	Gimmighoul
+095	Onix	246	Larvitar	346	Cradily~	481	Mesprit‡	588	Karrablast	904	Overqwil	1000	Gholdengo
+096	Drowzee	247	Pupitar	347	Anorith~	482	Azelf‡	589	Escavalier	905	Enamorus‡	1001	Wo-Chien‡
+097	Hypno	248	Tyranitar	348	Armaldo~	483	Dialga‡	590	Foongus	No additional Pokémon	1002	Chien-Pao‡
+098	Krabby	249	Lugia‡	349	Feebas	484	Palkia‡	591	Amoonguss	1003	Ting-Lu‡
+099	Kingler	250	Ho-oh‡	350	Milotic	485	Heatran‡	592	Frillish	1004	Chi-Yu‡
+100	Voltorb	251	Celebi♭[e]	351	Castform	486	Regigigas‡	593	Jellicent	1005	Roaring Moon§
+101	Electrode	No additional Pokémon	352	Kecleon	487	Giratina‡	594	Alomomola	1006	Iron Valiant§
+102	Exeggcute	353	Shuppet	488	Cresselia‡	595	Joltik	1007	Koraidon‡
+103	Exeggutor	354	Banette	489	Phione♭[e]	596	Galvantula	1008	Miraidon‡
+104	Cubone	355	Duskull	490	Manaphy♭[e]	597	Ferroseed	1009	Walking Wake§
+105	Marowak	356	Dusclops	491	Darkrai ♭[e]	598	Ferrothorn	1010	Iron Leaves§
+106	Hitmonlee	357	Tropius	492	Shaymin♭[e]	599	Klink	N/A	Raging Bolt§
+107	Hitmonchan	358	Chimecho	493	Arceus♭[e]	600	Klang	N/A	Iron Crown§
+108	Lickitung	359	Absol	No additional Pokémon	601	Klinklang	N/A	Archaludon
+109	Koffing	360	Wynaut※	602	Tynamo	N/A	Dipplin
+110	Weezing	361	Snorunt	603	Eelektrik	N/A	Poltchageist
+111	Rhyhorn	362	Glalie	604	Eelektross	N/A	Okidogi
+112	Rhydon	363	Spheal	605	Elgyem	N/A	Munkidori
+113	Chansey	364	Sealeo	606	Beheeyem	N/A	Fezandipiti
+114	Tangela	365	Walrein	607	Litwick	N/A	Ogerpon
+115	Kangaskhan	366	Clamperl	608	Lampent	N/A	Terapagos
+116	Horsea	367	Huntail	609	Chandelure	No additional Pokémon (as of 25 August 2023)
+117	Seadra	368	Gorebyss	610	Axew
+118	Goldeen	369	Relicanth	611	Fraxure
+119	Seaking	370	Luvdisc	612	Haxorus
+120	Staryu	371	Bagon	613	Cubchoo
+121	Starmie	372	Shelgon	614	Beartic
+122	Mr. Mime	373	Salamence	615	Cryogonal
+123	Scyther	374	Beldum	616	Shelmet
+124	Jynx	375	Metang	617	Accelgor
+125	Electabuzz	376	Metagross	618	Stunfisk
+126	Magmar	377	Regirock‡	619	Mienfoo
+127	Pinsir	378	Regice‡	620	Mienshao
+128	Tauros	379	Registeel‡	621	Druddigon
+129	Magikarp	380	Latias‡	622	Golett
+130	Gyarados	381	Latios‡	623	Golurk
+131	Lapras	382	Kyogre‡	624	Pawniard
+132	Ditto	383	Groudon‡	625	Bisharp
+133	Eevee	384	Rayquaza‡	626	Bouffalant
+134	Vaporeon	385	Jirachi♭[e]	627	Rufflet
+135	Jolteon	386	Deoxys♭[e]	628	Braviary
+136	Flareon	No additional Pokémon	629	Vullaby
+137	Porygon	630	Mandibuzz
+138	Omanyte~	631	Heatmor
+139	Omastar~	632	Durant
+140	Kabuto~	633	Deino
+141	Kabutops~	634	Zweilous
+142	Aerodactyl~	635	Hydreigon
+143	Snorlax	636	Larvesta
+144	Articuno‡	637	Volcarona
+145	Zapdos‡	638	Cobalion‡
+146	Moltres‡	639	Terrakion‡
+147	Dratini	640	Virizion‡
+148	Dragonair	641	Tornadus‡
+149	Dragonite	642	Thundurus‡
+150	Mewtwo‡	643	Reshiram‡
+151	Mew♭[e]	644	Zekrom‡
+	645	Landorus‡
+646	Kyurem‡
+647	Keldeo♭[e]
+648	Meloetta♭
+649	Genesect♭
